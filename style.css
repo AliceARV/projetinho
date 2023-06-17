@@ -1,0 +1,21 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: bisque;
+
+}
+header {
+    background-color: antiquewhite;
+}
+ p {
+    font-weight:80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+ }
+ button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 85px;
+    width: 90px;
+    font-weight: 80px;
+    
+ }
+ 
